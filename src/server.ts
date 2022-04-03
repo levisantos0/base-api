@@ -1,3 +1,4 @@
+import "reflect-metadata";
 import { Express } from "express";
 import { PORT, environment } from "./config/envs/app-envs";
 
